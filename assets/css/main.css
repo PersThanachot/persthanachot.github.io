@@ -1636,8 +1636,8 @@
 		color: #5385c1;
 		text-decoration: none;
 	}
-		a:active { color: #FFFFFF; text-decoration: none }
-		a:hover { color: #FFFFFF; text-decoration: none}
+		a:active { color: #FFFFFF; text-decoration: underline }
+		a:hover { color: #FFFFFF; text-decoration: underline}
 
 	strong, b {
 		color: #555;
