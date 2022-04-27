@@ -2721,7 +2721,7 @@
 		.subpage #header {
 			background: #181a1b;
 			top: 0;
-			height: 44px;
+			height: 100px;
 			line-height: 44px;
 			position: fixed;
 		}
