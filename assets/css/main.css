@@ -2741,7 +2741,7 @@
 
 		#header .inner {
 			margin: 0 auto;
-			position: relative;
+			position: fixed;
 		}
 
 		#header .logo {
