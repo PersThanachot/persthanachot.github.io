@@ -1645,7 +1645,7 @@
 		a:hover { color: #FFFFFF; text-decoration: underline}
 
 	strong, b {
-		color: #555;
+		color: inherit;
 		font-weight: 600;
 	}
 
@@ -1808,7 +1808,7 @@
 		}
 
 		section.wrapper.style1, article.wrapper.style1 {
-			background: #5385c1;
+			background: #181a1b;
 			color: #bacee6;
 		}
 
@@ -2858,7 +2858,7 @@
 		position: fixed;
 		right: 0;
 		top: 0;
-		background: #5385c1;
+		background: #181a1b;
 		color: #d4e0ef;
 		height: 100%;
 		max-width: 80%;
@@ -2943,7 +2943,7 @@
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		border-top: 0.5em solid #5385c1;
+		border-top: 0.5em solid #181a1b;
 	}
 
 		#banner h1 {
@@ -3012,7 +3012,7 @@
 /* Footer */
 
 	#footer .inner {
-		border-top: 1px solid #dbdbdb;
+		border-top: 1px solid #323232;
 		padding-top: 3em;
 	}
 
