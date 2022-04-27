@@ -2031,8 +2031,8 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5385c1;
-			box-shadow: 0 0 0 1px #5385c1;
+			border-color: #181a1b;
+			box-shadow: 0 0 0 1px #181a1b;
 		}
 
 	.select-wrapper {
@@ -2142,8 +2142,8 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #5385c1;
-			box-shadow: 0 0 0 1px #5385c1;
+			border-color: #181a1b;
+			box-shadow: 0 0 0 1px #181a1b;
 		}
 
 	input[type="checkbox"] + label:before {
