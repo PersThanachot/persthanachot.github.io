@@ -2031,8 +2031,8 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5385c1;
-			box-shadow: 0 0 0 1px #5385c1;
+			border-color: #181a1b;
+			box-shadow: 0 0 0 1px #181a1b;
 		}
 
 	.select-wrapper {
@@ -2142,8 +2142,8 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #5385c1;
-			box-shadow: 0 0 0 1px #5385c1;
+			border-color: #181a1b;
+			box-shadow: 0 0 0 1px #181a1b;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2715,13 +2715,13 @@
 /* Header */
 
 	.subpage {
-		padding-top: 44px;
+		padding-top: 0px;
 	}
 
 		.subpage #header {
-			background: #5385c1;
+			background: #181a1b;
 			top: 0;
-			height: 44px;
+			height: 100px;
 			line-height: 44px;
 			position: fixed;
 		}
@@ -2732,7 +2732,7 @@
 		height: 3.25em;
 		left: 0;
 		line-height: 3.25em;
-		position: absolute;
+		position: fixed;
 		text-align: right;
 		top: 4em;
 		width: 100%;
