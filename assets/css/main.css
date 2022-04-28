@@ -2312,6 +2312,12 @@
 		margin: 0 0 2em 0;
 		padding-left: 1em;
 	}
+	
+	ul.about-me {
+		list-style: disc;
+		margin: 0 0 2em 0;
+		padding-left: 18em;
+	}
 
 		ul li {
 			padding-left: 0.5em;
