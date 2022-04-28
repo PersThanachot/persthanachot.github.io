@@ -1776,6 +1776,12 @@
 
 		}
 
+	.inner-about-me {
+		max-width: 40em;
+		margin: 0 auto;
+		text-align: left
+	}
+
 /* Section/Article */
 
 	section.special, article.special {
